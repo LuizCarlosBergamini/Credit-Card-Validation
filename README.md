@@ -21,7 +21,3 @@ This Python program performs credit card validation based on the Luhn algorithm.
 
 - Python 3.x
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
